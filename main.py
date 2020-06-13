@@ -217,4 +217,4 @@ while running:
 			print(bcolors.FAIL + "Enemy attacked " + players[enemy_choice].name + " for " + str(enemy_damage) +
 				  " damages" + bcolors.ENDC)
 
-			#it is not working.
+			#it is done.
