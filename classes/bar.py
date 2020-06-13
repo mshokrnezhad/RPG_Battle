@@ -1,3 +1,4 @@
+# this is progress bar class
 class bar:
 	def __init__(self, current_value, max_value, number_of_blocks):
 		self.current_value = current_value
@@ -18,4 +19,3 @@ class bar:
 			white_blocks += " "
 
 		return black_blocks+white_blocks
-		# it is done.

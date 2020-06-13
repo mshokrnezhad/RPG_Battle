@@ -1,3 +1,5 @@
+# this is main file
+
 from classes.game import Person, bcolors
 from classes.magic import magic
 from classes.inventory import item
@@ -216,5 +218,3 @@ while running:
 			players[enemy_choice].take_damage(enemy_damage)
 			print(bcolors.FAIL + "Enemy attacked " + players[enemy_choice].name + " for " + str(enemy_damage) +
 				  " damages" + bcolors.ENDC)
-
-			#it is done.

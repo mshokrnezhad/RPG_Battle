@@ -1,3 +1,5 @@
+# this is magic class
+
 import random
 
 class magic:

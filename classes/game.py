@@ -1,3 +1,5 @@
+# this is person and color class
+
 import random
 from .magic import magic
 from .bar import bar

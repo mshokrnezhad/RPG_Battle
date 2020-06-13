@@ -1,3 +1,5 @@
+# this is inventory class
+
 class item:
 	def __init__(self, name, type, dsc, amount):
 		self.name = name
