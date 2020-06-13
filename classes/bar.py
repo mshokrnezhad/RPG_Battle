@@ -18,3 +18,4 @@ class bar:
 			white_blocks += " "
 
 		return black_blocks+white_blocks
+		# it is done.
